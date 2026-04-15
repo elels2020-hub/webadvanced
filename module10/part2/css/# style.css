@@ -1,0 +1,17 @@
+p {
+    /*color: red;
+    /*color: rbg(255, 0, 0);*/
+    color: #ff0000;
+    font-size: 20px;
+    borer-width: 2px;
+    border-stye: solid;
+    border-color: white;
+}
+
+body {
+    /*background-color: blue;
+    background-color: rbg(0, 0, 255)
+    background-color: #0000ff;*/
+    background-image:url("../images/download-image.png");
+    background-size: coer;
+}
