@@ -17,3 +17,26 @@ p{
 p {
     margin:100px;
 }
+
+div {
+    width: 300px;
+    border: 5px solid green;
+    background-color: lightgray;
+
+    margin: 20px;
+
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+/*div {
+padding: 50px 30px 50px 80px;
+}
+*/
+
+/*div{
+    padding:50px 80px 30px;
+}*/
+
