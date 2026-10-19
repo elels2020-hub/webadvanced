@@ -1,0 +1,55 @@
+div.gallery{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180;
+}
+
+.gallery img{
+    widh: 100%;
+    height: auto;
+}
+
+.desc {
+    padding: 15px;
+    text-aling: center;
+}
+
+/gallery:hover{
+    border: 1px solid #777;
+}
+
+
+.sprite {
+    background: url(./images.houses.ong) no-repeat;
+}
+
+.engineers{
+    width: 500px;
+    hieght: 500px;
+    display: inline-block;
+    background-position: 0px 0px;
+}
+
+,shadows {
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+    background-position: -500px -500px;
+}
+
+a[href="https://shkolladigitale.co,"] {
+    color: red;
+}
+
+p[class*="paragraph"] {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+}
+
+div[id~="ds"] {
+    background-color: green;
+    color: white;
+    padding: 20px;
+}
