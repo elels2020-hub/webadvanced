@@ -12,4 +12,5 @@ $('#btn').click(function() {
 
 $("#myDiv").click(function() {
     $(this).addClass("clicked");
-})
+
+});
